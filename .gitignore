@@ -1,0 +1,7 @@
+# Archivos temporales
+node_modules/
+tmp/
+
+# Archivos de configuración
+.env
+
